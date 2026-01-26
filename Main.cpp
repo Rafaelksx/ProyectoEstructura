@@ -8,37 +8,30 @@ int main() {
     CapaDatos datos;
 
     int opcion;
-    std::string urlRaiz;
+    std::string urlActual = ""; // Declarada aqui para que sea global al main
 
     do {
-        vista.mostrarMenu();
-        std::cin >> opcion;
+        opcion = vista.mostrarMenu(); // Ahora mostrarMenu devuelve int
 
-        if(opcion == 1) {
-            int prof;
-            std::cout << "URL origen: "; 
-            std::cin >> urlRaiz;
+        if (opcion == 1) {
+            urlActual = vista.pedirURL();
+            int prof = vista.pedirProfundidad();
             
-            // Si el usuario olvida el protocolo, lo agregamos nosotros
-            if (urlRaiz.find("http") == std::string::npos) {
-                urlRaiz = "https://" + urlRaiz;
-            }
-            
-            std::cout << "Profundidad: "; std::cin >> prof;
-            
-            negocio.procesarSitio(urlRaiz, prof);
-            datos.guardarAnalisisEstructural("resultado_sitio.txt", negocio.getGrafo(), urlRaiz);
-            datos.generarHTML("reporte_visual.html", negocio.getGrafo(), urlRaiz);
-            std::cout << "[OK] Analisis completado y guardado en archivo.\n";
+            vista.mensajeProcesando();
+            negocio.procesarSitio(urlActual, prof);
+            datos.generarReportes(urlActual, negocio.getGrafo(), prof);
+            vista.mensajeExito();
         } 
-        else if(opcion == 2) {
-            std::string palabra;
-            std::cout << "Palabra clave en URL: "; std::cin >> palabra;
-            auto camino = negocio.buscarCamino(urlRaiz, palabra);
-            vista.mostrarCamino(camino);
+        else if (opcion == 2) {
+            if (urlActual.empty()) {
+                std::cout << "[!] Primero analice un sitio." << std::endl;
+            } else {
+                std::string palabra = vista.pedirPalabra();
+                std::vector<std::string> ruta = negocio.buscarRuta(urlActual, palabra);
+                vista.mostrarResultadoRuta(ruta);
+            }
         }
-
-    } while(opcion != 3);
+    } while (opcion != 3);
 
     return 0;
 }
