@@ -13,31 +13,22 @@
 class CapaNegocio {
 private:
     std::map<std::string, std::set<std::string>> grafoWeb;
-    std::string dominioRaiz; // Ejemplo: "uneg.edu.ve"
+    std::string dominioRaiz;
 
     static size_t WriteCallback(void* contents, size_t size, size_t nmemb, void* userp) {
         ((std::string*)userp)->append((char*)contents, size * nmemb);
         return size * nmemb;
     }
 
-    // Convierte URL a formato estándar
     std::string normalizar(std::string url, std::string actual) {
         if (url.empty() || url.find("mailto:") == 0 || url.find("javascript:") == 0 || url[0] == '#') return "";
-        
-        std::string resultado = url;
+        std::string res = url;
         if (url.find("http") != 0) {
-            // Es una ruta relativa
             std::string base = actual.substr(0, actual.find("/", 8));
-            if (url[0] == '/') resultado = base + url;
-            else resultado = base + "/" + url;
+            res = (url[0] == '/') ? base + url : base + "/" + url;
         }
-        
-        // Limpiar barras finales y anclas
-        if (resultado.back() == '/') resultado.pop_back();
-        size_t pos = resultado.find("#");
-        if (pos != std::string::npos) resultado = resultado.substr(0, pos);
-        
-        return resultado;
+        if (res.back() == '/') res.pop_back();
+        return res;
     }
 
     std::string descargar(std::string url) {
@@ -59,28 +50,28 @@ private:
 public:
     void procesarSitio(std::string semilla, int profMax) {
         grafoWeb.clear();
-        
-        // Extraer el filtro (ejemplo: de https://www.uneg.edu.ve saca uneg.edu.ve)
-        dominioRaiz = semilla;
-        if (dominioRaiz.find("www.") != std::string::npos) 
-            dominioRaiz = dominioRaiz.substr(dominioRaiz.find("www.") + 4);
-        else if (dominioRaiz.find("://") != std::string::npos)
-            dominioRaiz = dominioRaiz.substr(dominioRaiz.find("://") + 3);
-        
-        if (dominioRaiz.find("/") != std::string::npos)
-            dominioRaiz = dominioRaiz.substr(0, dominioRaiz.find("/"));
-
+        std::set<std::string> visitados; // Registro de páginas YA descargadas
         std::queue<std::pair<std::string, int>> q;
+
+        // Extraer dominio para el filtro
+        dominioRaiz = semilla;
+        size_t p = dominioRaiz.find("://");
+        if (p != std::string::npos) dominioRaiz = dominioRaiz.substr(p + 3);
+        if (dominioRaiz.find("www.") == 0) dominioRaiz = dominioRaiz.substr(4);
+        if (dominioRaiz.find("/") != std::string::npos) dominioRaiz = dominioRaiz.substr(0, dominioRaiz.find("/"));
+
         q.push({semilla, 1});
-        std::set<std::string> visitados;
 
         while(!q.empty()) {
             auto [actual, nivel] = q.front(); q.pop();
 
+            // REGLA DE ORO: Si ya la visitamos, no descargamos su HTML otra vez
             if (nivel > profMax || visitados.count(actual)) continue;
             visitados.insert(actual);
 
             std::string html = descargar(actual);
+            if(html.empty()) continue;
+
             std::regex tag("<a\\s+[^>]*href=\"([^\"]*)\"", std::regex_constants::icase);
             auto start = std::sregex_iterator(html.begin(), html.end(), tag);
             auto end = std::sregex_iterator();
@@ -88,52 +79,45 @@ public:
             for (std::sregex_iterator i = start; i != end; ++i) {
                 std::string link = normalizar((*i)[1].str(), actual);
                 
-                // FILTRO CLAVE: Si contiene uneg.edu.ve, entra al grafo y a la cola
                 if (!link.empty() && link.find(dominioRaiz) != std::string::npos) {
-                    grafoWeb[actual].insert(link);
-                    if (nivel < profMax) q.push({link, nivel + 1});
+                    grafoWeb[actual].insert(link); // Guardamos la relación
+                    
+                    // Solo agregamos a la cola si NO ha sido visitada para evitar redundancia
+                    if (visitados.find(link) == visitados.end() && nivel < profMax) {
+                        q.push({link, nivel + 1});
+                    }
                 }
             }
         }
     }
-
 
     std::vector<std::string> buscarRuta(std::string inicio, std::string palabra) {
-    // Usamos una cola de vectores para guardar el camino completo
-    std::queue<std::vector<std::string>> q;
-    q.push({inicio});
-    
-    std::set<std::string> visitados;
-    visitados.insert(inicio);
+        std::queue<std::vector<std::string>> q;
+        q.push({inicio});
+        std::set<std::string> visRuta;
+        visRuta.insert(inicio);
 
-    while (!q.empty()) {
-        std::vector<std::string> camino = q.front();
-        q.pop();
-        std::string actual = camino.back();
+        while (!q.empty()) {
+            std::vector<std::string> camino = q.front(); q.pop();
+            std::string actual = camino.back();
 
-        // Si la URL actual contiene la palabra clave, ¡encontramos el camino!
-        if (actual.find(palabra) != std::string::npos && actual != inicio) {
-            return camino;
-        }
+            if (actual.find(palabra) != std::string::npos && actual != inicio) return camino;
 
-        // Explorar los vecinos (enlaces encontrados en esta página)
-        if (grafoWeb.count(actual)) {
-            for (const auto& vecino : grafoWeb.at(actual)) {
-                if (visitados.find(vecino) == visitados.end()) {
-                    visitados.insert(vecino);
-                    std::vector<std::string> nuevoCamino = camino;
-                    nuevoCamino.push_back(vecino);
-                    q.push(nuevoCamino);
+            if (grafoWeb.count(actual)) {
+                for (const auto& v : grafoWeb.at(actual)) {
+                    if (visRuta.find(v) == visRuta.end()) {
+                        visRuta.insert(v);
+                        std::vector<std::string> nuevo = camino;
+                        nuevo.push_back(v);
+                        q.push(nuevo);
+                    }
                 }
             }
         }
+        return {};
     }
-    return {}; // No se encontró camino
-}
+
     std::map<std::string, std::set<std::string>> getGrafo() { return grafoWeb; }
-    std::vector<std::string> buscarCamino(std::string ini, std::string pal); // (Se mantiene igual)
-
-
 };
 
 #endif
