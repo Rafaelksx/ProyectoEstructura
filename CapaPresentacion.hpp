@@ -42,6 +42,16 @@ public:
         return p;
     }
 
+    void mostrarMetricas(int totalPaginas, int totalEnlaces, double promedio, std::string masConectada, int maxHijos) {
+    std::cout << "\n---------- METRICAS ESTRUCTURALES ----------" << std::endl;
+    std::cout << " > Total de paginas analizadas: " << totalPaginas << std::endl;
+    std::cout << " > Total de enlaces encontrados: " << totalEnlaces << std::endl;
+    std::cout << " > Promedio de enlaces por pagina: " << promedio << std::endl;
+    std::cout << " > Pagina mas conectada: " << masConectada << std::endl;
+    std::cout << "   (con " << maxHijos << " enlaces directos)" << std::endl;
+    std::cout << "--------------------------------------------" << std::endl;
+    }
+
     void mensajeProcesando() { std::cout << "\n[!] Rastreando estructura..." << std::endl; }
     void mensajeExito() { std::cout << "[OK] Reportes generados." << std::endl; }
 

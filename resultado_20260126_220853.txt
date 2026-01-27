@@ -1,7 +1,7 @@
-REPORTE ESTRUCTURAL (OPTIMIZADO)
-Raiz: https://uneg.edu.ve
+REPORTE ESTRUCTURAL - https://uneg.edu.ve
+Fecha: 20260126_220853
 
-http://www.uneg.edu.ve tiene 53 enlaces directos.
+http://www.uneg.edu.ve [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- http://www.uneg.edu.ve
   |-- http://www.uneg.edu.ve/breves
@@ -56,7 +56,7 @@ http://www.uneg.edu.ve tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://cidar.uneg.edu.ve tiene 7 enlaces directos.
+https://cidar.uneg.edu.ve [7 enlaces]
   |-- https://cidar.uneg.edu.ve/ALEXANDR/FORMAS/' + nombrebd + '/alexfrm0s.htm
   |-- https://cidar.uneg.edu.ve/ALEXANDR/FORMAS/' + nombrebd + '/alexfrm1.htm
   |-- https://cidar.uneg.edu.ve/ALEXANDR/FORMAS/' + nombrebd + '/alexfrm1e.htm
@@ -65,7 +65,7 @@ https://cidar.uneg.edu.ve tiene 7 enlaces directos.
   |-- https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/red.htm
   |-- https://cidar.uneg.edu.ve/alexfrm0o.htm
 
-https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/alexfrm0i.htm tiene 7 enlaces directos.
+https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/alexfrm0i.htm [7 enlaces]
   |-- https://cidar.uneg.edu.ve/ALEXANDR/FORMAS/' + nombrebd + '/alexfrm0si.htm
   |-- https://cidar.uneg.edu.ve/ALEXANDR/FORMAS/' + nombrebd + '/alexfrm1ei.htm
   |-- https://cidar.uneg.edu.ve/ALEXANDR/FORMAS/' + nombrebd + '/alexfrm3.htm
@@ -74,13 +74,13 @@ https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/alexfrm0i.htm tiene 7 enlaces d
   |-- https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/red.htm
   |-- https://cidar.uneg.edu.ve/alexfrm0oi.htm
 
-https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/red.htm tiene 4 enlaces directos.
+https://cidar.uneg.edu.ve/alexandr/formas/bcuneg/red.htm [4 enlaces]
   |-- https://cidar.uneg.edu.ve/ALEXANDR/index.HTM
   |-- https://cidar.uneg.edu.ve/cgi-win/be_alex.exe?Estadisticas
   |-- https://cidar.uneg.edu.ve/cgi-win/be_alex.exe?Estadisticas=consultas
   |-- https://cidar.uneg.edu.ve/cgi-win/be_alex.exe?Nuevo=7
 
-https://moodle.uneg.edu.ve tiene 45 enlaces directos.
+https://moodle.uneg.edu.ve [45 enlaces]
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/?lang=en
   |-- https://moodle.uneg.edu.ve/?lang=es_ve
@@ -127,7 +127,7 @@ https://moodle.uneg.edu.ve tiene 45 enlaces directos.
   |-- https://moodle.uneg.edu.ve/mod/forum/view.php?f=2493
   |-- https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505
 
-https://moodle.uneg.edu.ve/?lang=en tiene 45 enlaces directos.
+https://moodle.uneg.edu.ve/?lang=en [45 enlaces]
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/?lang=es
   |-- https://moodle.uneg.edu.ve/?lang=es_ve
@@ -174,7 +174,7 @@ https://moodle.uneg.edu.ve/?lang=en tiene 45 enlaces directos.
   |-- https://moodle.uneg.edu.ve/mod/forum/view.php?f=2493
   |-- https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505
 
-https://moodle.uneg.edu.ve/?lang=es_ve tiene 45 enlaces directos.
+https://moodle.uneg.edu.ve/?lang=es_ve [45 enlaces]
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/?lang=en
   |-- https://moodle.uneg.edu.ve/?lang=es
@@ -221,7 +221,7 @@ https://moodle.uneg.edu.ve/?lang=es_ve tiene 45 enlaces directos.
   |-- https://moodle.uneg.edu.ve/mod/forum/view.php?f=2493
   |-- https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=1 tiene 41 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=1 [41 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -264,7 +264,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=1 tiene 41 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/view.php?id=879
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=11 tiene 50 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=11 [50 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -316,7 +316,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=11 tiene 50 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=386
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=12 tiene 50 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=12 [50 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -368,7 +368,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=12 tiene 50 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=79
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=13 tiene 49 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=13 [49 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -419,7 +419,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=13 tiene 49 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=909
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=16 tiene 36 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=16 [36 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -457,7 +457,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=16 tiene 36 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2518
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=17 tiene 26 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=17 [26 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -485,7 +485,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=17 tiene 26 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=6288&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=84&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=18 tiene 10 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=18 [10 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -497,7 +497,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=18 tiene 10 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2358
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=19 tiene 30 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=19 [30 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -529,7 +529,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=19 tiene 30 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=88&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=9285&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=2 tiene 50 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=2 [50 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -581,7 +581,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=2 tiene 50 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/view.php?id=913
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=22 tiene 14 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=22 [14 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -597,7 +597,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=22 tiene 14 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=350&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=35301&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=23 tiene 13 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=23 [13 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -612,7 +612,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=23 tiene 13 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=70&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=86&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=24 tiene 58 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=24 [58 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -672,7 +672,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=24 tiene 58 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2365
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=27 tiene 15 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=27 [15 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -689,7 +689,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=27 tiene 15 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2359
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=3 tiene 11 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=3 [11 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -702,7 +702,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=3 tiene 11 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/index.php?categoryid=80
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=32 tiene 34 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=32 [34 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -738,7 +738,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=32 tiene 34 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2416
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=34 tiene 14 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=34 [14 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -754,7 +754,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=34 tiene 14 enlaces direc
   |-- https://moodle.uneg.edu.ve/login/index.php
   |-- https://moodle.uneg.edu.ve/user/view.php?id=597&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=36 tiene 20 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=36 [20 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -776,7 +776,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=36 tiene 20 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=595&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=77&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=4 tiene 10 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=4 [10 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -788,7 +788,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=4 tiene 10 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2361
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=42 tiene 20 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=42 [20 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -810,7 +810,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=42 tiene 20 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=585&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=61&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=47 tiene 13 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=47 [13 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -825,7 +825,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=47 tiene 13 enlaces direc
   |-- https://moodle.uneg.edu.ve/login/index.php
   |-- https://moodle.uneg.edu.ve/user/view.php?id=24817&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=54 tiene 8 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=54 [8 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -835,7 +835,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=54 tiene 8 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/index.php?categoryid=54&amp;lang=es_ve
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=55 tiene 15 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=55 [15 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -852,7 +852,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=55 tiene 15 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=583&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=8189&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=56 tiene 12 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=56 [12 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -866,7 +866,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=56 tiene 12 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=380&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=515&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=6 tiene 50 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=6 [50 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -918,7 +918,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=6 tiene 50 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/view.php?id=766
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=61 tiene 15 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=61 [15 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -935,7 +935,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=61 tiene 15 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=387&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=525&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=64 tiene 12 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=64 [12 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -949,7 +949,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=64 tiene 12 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=24722&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=86&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=65 tiene 12 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=65 [12 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -963,7 +963,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=65 tiene 12 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=415&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=493&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=67 tiene 10 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=67 [10 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -975,7 +975,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=67 tiene 10 enlaces direc
   |-- https://moodle.uneg.edu.ve/login/index.php
   |-- https://moodle.uneg.edu.ve/user/view.php?id=138&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=68 tiene 12 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=68 [12 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -989,7 +989,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=68 tiene 12 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=29852&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=334&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=69 tiene 17 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=69 [17 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1008,7 +1008,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=69 tiene 17 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=7673&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=8855&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=7 tiene 10 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=7 [10 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1020,7 +1020,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=7 tiene 10 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2356
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=72 tiene 11 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=72 [11 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1033,7 +1033,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=72 tiene 11 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2360
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=74 tiene 8 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=74 [8 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1043,7 +1043,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=74 tiene 8 enlaces direct
   |-- https://moodle.uneg.edu.ve/course/index.php?categoryid=74&amp;lang=es_ve
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=76 tiene 12 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=76 [12 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1057,7 +1057,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=76 tiene 12 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=26711&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=32371&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=77 tiene 10 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=77 [10 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1069,7 +1069,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=77 tiene 10 enlaces direc
   |-- https://moodle.uneg.edu.ve/login/index.php
   |-- https://moodle.uneg.edu.ve/user/view.php?id=70&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=78 tiene 50 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=78 [50 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1121,7 +1121,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=78 tiene 50 enlaces direc
   |-- https://moodle.uneg.edu.ve/course/view.php?id=2496
   |-- https://moodle.uneg.edu.ve/login/index.php
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=79 tiene 12 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=79 [12 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1135,7 +1135,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=79 tiene 12 enlaces direc
   |-- https://moodle.uneg.edu.ve/user/view.php?id=134&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=35355&amp;course=1
 
-https://moodle.uneg.edu.ve/course/index.php?categoryid=8 tiene 17 enlaces directos.
+https://moodle.uneg.edu.ve/course/index.php?categoryid=8 [17 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1154,7 +1154,7 @@ https://moodle.uneg.edu.ve/course/index.php?categoryid=8 tiene 17 enlaces direct
   |-- https://moodle.uneg.edu.ve/user/view.php?id=491&amp;course=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=98&amp;course=1
 
-https://moodle.uneg.edu.ve/login/index.php tiene 6 enlaces directos.
+https://moodle.uneg.edu.ve/login/index.php [6 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
   |-- https://moodle.uneg.edu.ve/login/forgot_password.php
@@ -1162,7 +1162,7 @@ https://moodle.uneg.edu.ve/login/index.php tiene 6 enlaces directos.
   |-- https://moodle.uneg.edu.ve/login/index.php?lang=es_ve
   |-- https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505
 
-https://moodle.uneg.edu.ve/mod/forum/discuss.php?d=19649 tiene 11 enlaces directos.
+https://moodle.uneg.edu.ve/mod/forum/discuss.php?d=19649 [11 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1175,7 +1175,7 @@ https://moodle.uneg.edu.ve/mod/forum/discuss.php?d=19649 tiene 11 enlaces direct
   |-- https://moodle.uneg.edu.ve/mod/forum/view.php?id=41921&forceview=1
   |-- https://moodle.uneg.edu.ve/user/view.php?id=347&course=1
 
-https://moodle.uneg.edu.ve/mod/forum/view.php?f=2493 tiene 15 enlaces directos.
+https://moodle.uneg.edu.ve/mod/forum/view.php?f=2493 [15 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1192,7 +1192,7 @@ https://moodle.uneg.edu.ve/mod/forum/view.php?f=2493 tiene 15 enlaces directos.
   |-- https://moodle.uneg.edu.ve/mod/forum/view.php?id=33926&o=9
   |-- https://moodle.uneg.edu.ve/mod/forum/view.php?id=41921&forceview=1
 
-https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505 tiene 8 enlaces directos.
+https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505 [8 enlaces]
   |-- https://download.moodle.org/mobile?version=2025100600&amp;lang=es&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile&amp;siteurl=https%3A%2F%2Fmoodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve
   |-- https://moodle.uneg.edu.ve/admin/tool/dataprivacy/summary.php
@@ -1202,15 +1202,15 @@ https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505 tiene 8 enlaces direct
   |-- https://moodle.uneg.edu.ve/mod/resource/view.php?id=94505&amp;lang=es_ve
   |-- https://moodle.uneg.edu.ve/pluginfile.php/277076/mod_resource/content/5/INDUCCI%C3%93N%20PLATAFORMA%20MOODLE%202024.jpg
 
-https://prisma.uneg.edu.ve tiene 2 enlaces directos.
+https://prisma.uneg.edu.ve [2 enlaces]
   |-- https://prisma.uneg.edu.ve
   |-- https://prisma.uneg.edu.ve/login
 
-https://prisma.uneg.edu.ve/login tiene 2 enlaces directos.
+https://prisma.uneg.edu.ve/login [2 enlaces]
   |-- https://prisma.uneg.edu.ve
   |-- https://prisma.uneg.edu.ve/forgot-password
 
-https://servicio.uneg.edu.ve/../documentos/202202_procedimiento.pdf?PHPSESSID=ae36c14327f6a268b3d3fff02d42b2df tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/../documentos/202202_procedimiento.pdf?PHPSESSID=915c3b5ac7bacf71acec7230d09693ba [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1265,7 +1265,7 @@ https://servicio.uneg.edu.ve/../documentos/202202_procedimiento.pdf?PHPSESSID=ae
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/GUIA_MACRO.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/GUIA_MACRO.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1320,7 +1320,7 @@ https://servicio.uneg.edu.ve/catalogo/GUIA_MACRO.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/GUIA_MICRO.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/GUIA_MICRO.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1375,7 +1375,7 @@ https://servicio.uneg.edu.ve/catalogo/GUIA_MICRO.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/MANUAL_Zoocriadero.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/MANUAL_Zoocriadero.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1430,7 +1430,7 @@ https://servicio.uneg.edu.ve/catalogo/MANUAL_Zoocriadero.html tiene 53 enlaces d
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/Produccion_programada_en_talleres.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/Produccion_programada_en_talleres.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1485,7 +1485,7 @@ https://servicio.uneg.edu.ve/catalogo/Produccion_programada_en_talleres.html tie
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/Reflexiones_didacticas_amaliwaka.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/Reflexiones_didacticas_amaliwaka.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1540,7 +1540,7 @@ https://servicio.uneg.edu.ve/catalogo/Reflexiones_didacticas_amaliwaka.html tien
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/Zoocriadero.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/Zoocriadero.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1595,7 +1595,7 @@ https://servicio.uneg.edu.ve/catalogo/Zoocriadero.html tiene 53 enlaces directos
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/androergologia.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/androergologia.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1650,7 +1650,7 @@ https://servicio.uneg.edu.ve/catalogo/androergologia.html tiene 53 enlaces direc
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/armas_ideas_suenos.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/armas_ideas_suenos.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1705,7 +1705,7 @@ https://servicio.uneg.edu.ve/catalogo/armas_ideas_suenos.html tiene 53 enlaces d
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/atencion_integral.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/atencion_integral.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1760,7 +1760,7 @@ https://servicio.uneg.edu.ve/catalogo/atencion_integral.html tiene 53 enlaces di
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/audiovisuales.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/audiovisuales.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1815,7 +1815,7 @@ https://servicio.uneg.edu.ve/catalogo/audiovisuales.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/boletin_indicador.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/boletin_indicador.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1870,7 +1870,7 @@ https://servicio.uneg.edu.ve/catalogo/boletin_indicador.html tiene 53 enlaces di
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/bosque_humedo.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/bosque_humedo.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1925,7 +1925,7 @@ https://servicio.uneg.edu.ve/catalogo/bosque_humedo.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/bosque_tropical.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/bosque_tropical.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -1980,7 +1980,7 @@ https://servicio.uneg.edu.ve/catalogo/bosque_tropical.html tiene 53 enlaces dire
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/caminos_reales.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/caminos_reales.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2035,7 +2035,7 @@ https://servicio.uneg.edu.ve/catalogo/caminos_reales.html tiene 53 enlaces direc
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/caura.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/caura.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2090,7 +2090,7 @@ https://servicio.uneg.edu.ve/catalogo/caura.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/ciela.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/ciela.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2145,7 +2145,7 @@ https://servicio.uneg.edu.ve/catalogo/ciela.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/citeg.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/citeg.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2200,7 +2200,7 @@ https://servicio.uneg.edu.ve/catalogo/citeg.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/con_aureos_buriles.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/con_aureos_buriles.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2255,7 +2255,7 @@ https://servicio.uneg.edu.ve/catalogo/con_aureos_buriles.html tiene 53 enlaces d
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/concurso.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/concurso.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2310,7 +2310,7 @@ https://servicio.uneg.edu.ve/catalogo/concurso.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/conocimientos_indigenas.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/conocimientos_indigenas.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2365,7 +2365,7 @@ https://servicio.uneg.edu.ve/catalogo/conocimientos_indigenas.html tiene 53 enla
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/construimos.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/construimos.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2420,7 +2420,7 @@ https://servicio.uneg.edu.ve/catalogo/construimos.html tiene 53 enlaces directos
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/convenios.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/convenios.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2475,7 +2475,7 @@ https://servicio.uneg.edu.ve/catalogo/convenios.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/copernico.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/copernico.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2530,7 +2530,7 @@ https://servicio.uneg.edu.ve/catalogo/copernico.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/cosas.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/cosas.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2585,7 +2585,7 @@ https://servicio.uneg.edu.ve/catalogo/cosas.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/desarrollo_humano.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/desarrollo_humano.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2640,7 +2640,7 @@ https://servicio.uneg.edu.ve/catalogo/desarrollo_humano.html tiene 53 enlaces di
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/descubriendo_poetas.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/descubriendo_poetas.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2695,7 +2695,7 @@ https://servicio.uneg.edu.ve/catalogo/descubriendo_poetas.html tiene 53 enlaces 
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/diplomado_ecologia_ambiental.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/diplomado_ecologia_ambiental.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2750,7 +2750,7 @@ https://servicio.uneg.edu.ve/catalogo/diplomado_ecologia_ambiental.html tiene 53
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/educacion_critica.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/educacion_critica.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2805,7 +2805,7 @@ https://servicio.uneg.edu.ve/catalogo/educacion_critica.html tiene 53 enlaces di
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/el_derecho_a_la_educacion_venezuela.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/el_derecho_a_la_educacion_venezuela.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2860,7 +2860,7 @@ https://servicio.uneg.edu.ve/catalogo/el_derecho_a_la_educacion_venezuela.html t
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/electricidad.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/electricidad.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2915,7 +2915,7 @@ https://servicio.uneg.edu.ve/catalogo/electricidad.html tiene 53 enlaces directo
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/ep_ed_fsica.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/ep_ed_fsica.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -2970,7 +2970,7 @@ https://servicio.uneg.edu.ve/catalogo/ep_ed_fsica.html tiene 53 enlaces directos
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/estampitas_guayanesas.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/estampitas_guayanesas.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3025,7 +3025,7 @@ https://servicio.uneg.edu.ve/catalogo/estampitas_guayanesas.html tiene 53 enlace
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/etnografia.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/etnografia.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3080,7 +3080,7 @@ https://servicio.uneg.edu.ve/catalogo/etnografia.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/experiencias_significativas_historias_locales.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/experiencias_significativas_historias_locales.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3135,7 +3135,7 @@ https://servicio.uneg.edu.ve/catalogo/experiencias_significativas_historias_loca
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/forestal.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/forestal.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3190,7 +3190,7 @@ https://servicio.uneg.edu.ve/catalogo/forestal.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/formacion_profesores.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/formacion_profesores.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3245,7 +3245,7 @@ https://servicio.uneg.edu.ve/catalogo/formacion_profesores.html tiene 53 enlaces
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/gaceta.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/gaceta.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3300,7 +3300,7 @@ https://servicio.uneg.edu.ve/catalogo/gaceta.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/gerencia.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/gerencia.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3355,7 +3355,7 @@ https://servicio.uneg.edu.ve/catalogo/gerencia.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/guia_orienta.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/guia_orienta.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3410,7 +3410,7 @@ https://servicio.uneg.edu.ve/catalogo/guia_orienta.html tiene 53 enlaces directo
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/hombre_raices.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/hombre_raices.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3465,7 +3465,7 @@ https://servicio.uneg.edu.ve/catalogo/hombre_raices.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/informe_gestion.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/informe_gestion.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3520,7 +3520,7 @@ https://servicio.uneg.edu.ve/catalogo/informe_gestion.html tiene 53 enlaces dire
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/inteligencia_artificial.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/inteligencia_artificial.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3575,7 +3575,7 @@ https://servicio.uneg.edu.ve/catalogo/inteligencia_artificial.html tiene 53 enla
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/investigacion_doctoral.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/investigacion_doctoral.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3630,7 +3630,7 @@ https://servicio.uneg.edu.ve/catalogo/investigacion_doctoral.html tiene 53 enlac
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/iv_jornadas.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/iv_jornadas.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3685,7 +3685,7 @@ https://servicio.uneg.edu.ve/catalogo/iv_jornadas.html tiene 53 enlaces directos
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/jornada_ciencia_educacion.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/jornada_ciencia_educacion.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3740,7 +3740,7 @@ https://servicio.uneg.edu.ve/catalogo/jornada_ciencia_educacion.html tiene 53 en
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/jornada_forma_docente.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/jornada_forma_docente.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3795,7 +3795,7 @@ https://servicio.uneg.edu.ve/catalogo/jornada_forma_docente.html tiene 53 enlace
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/jornada_investigacion_institucional.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/jornada_investigacion_institucional.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3850,7 +3850,7 @@ https://servicio.uneg.edu.ve/catalogo/jornada_investigacion_institucional.html t
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/jornada_proc_prod.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/jornada_proc_prod.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3905,7 +3905,7 @@ https://servicio.uneg.edu.ve/catalogo/jornada_proc_prod.html tiene 53 enlaces di
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/kaleidoscopio.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/kaleidoscopio.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -3960,7 +3960,7 @@ https://servicio.uneg.edu.ve/catalogo/kaleidoscopio.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/kuawai.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/kuawai.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4015,7 +4015,7 @@ https://servicio.uneg.edu.ve/catalogo/kuawai.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/las_galderas_amaliwaka.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/las_galderas_amaliwaka.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4070,7 +4070,7 @@ https://servicio.uneg.edu.ve/catalogo/las_galderas_amaliwaka.html tiene 53 enlac
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/mar_y_rio.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/mar_y_rio.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4125,7 +4125,7 @@ https://servicio.uneg.edu.ve/catalogo/mar_y_rio.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/metodologia_complementariedad.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/metodologia_complementariedad.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4180,7 +4180,7 @@ https://servicio.uneg.edu.ve/catalogo/metodologia_complementariedad.html tiene 5
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/miradas_reflexiones.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/miradas_reflexiones.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4235,7 +4235,7 @@ https://servicio.uneg.edu.ve/catalogo/miradas_reflexiones.html tiene 53 enlaces 
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/modelado.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/modelado.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4290,7 +4290,7 @@ https://servicio.uneg.edu.ve/catalogo/modelado.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/parima.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/parima.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4345,7 +4345,7 @@ https://servicio.uneg.edu.ve/catalogo/parima.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/partida_civil.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/partida_civil.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4400,7 +4400,7 @@ https://servicio.uneg.edu.ve/catalogo/partida_civil.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/pedagogia.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/pedagogia.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4455,7 +4455,7 @@ https://servicio.uneg.edu.ve/catalogo/pedagogia.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/pensar_ciudad.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/pensar_ciudad.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4510,7 +4510,7 @@ https://servicio.uneg.edu.ve/catalogo/pensar_ciudad.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/pensar_upata.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/pensar_upata.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4565,7 +4565,7 @@ https://servicio.uneg.edu.ve/catalogo/pensar_upata.html tiene 53 enlaces directo
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/perspectiva_critica.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/perspectiva_critica.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4620,7 +4620,7 @@ https://servicio.uneg.edu.ve/catalogo/perspectiva_critica.html tiene 53 enlaces 
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/plan_agricola.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/plan_agricola.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4675,7 +4675,7 @@ https://servicio.uneg.edu.ve/catalogo/plan_agricola.html tiene 53 enlaces direct
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/poemarios1.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/poemarios1.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4730,7 +4730,7 @@ https://servicio.uneg.edu.ve/catalogo/poemarios1.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/poemarios2.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/poemarios2.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4785,7 +4785,7 @@ https://servicio.uneg.edu.ve/catalogo/poemarios2.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/poemarios3.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/poemarios3.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4840,7 +4840,7 @@ https://servicio.uneg.edu.ve/catalogo/poemarios3.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/poemarios4.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/poemarios4.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4895,7 +4895,7 @@ https://servicio.uneg.edu.ve/catalogo/poemarios4.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/por_que_pasa_esto.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/por_que_pasa_esto.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -4950,7 +4950,7 @@ https://servicio.uneg.edu.ve/catalogo/por_que_pasa_esto.html tiene 53 enlaces di
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/pre_jornada_ciela_2016.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/pre_jornada_ciela_2016.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5005,7 +5005,7 @@ https://servicio.uneg.edu.ve/catalogo/pre_jornada_ciela_2016.html tiene 53 enlac
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/produccion_intelectual.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/produccion_intelectual.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5060,7 +5060,7 @@ https://servicio.uneg.edu.ve/catalogo/produccion_intelectual.html tiene 53 enlac
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/proyecto.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/proyecto.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5115,7 +5115,7 @@ https://servicio.uneg.edu.ve/catalogo/proyecto.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/rio_botanamo.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/rio_botanamo.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5170,7 +5170,7 @@ https://servicio.uneg.edu.ve/catalogo/rio_botanamo.html tiene 53 enlaces directo
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/scientia.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/scientia.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5225,7 +5225,7 @@ https://servicio.uneg.edu.ve/catalogo/scientia.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/serie_tesis.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/serie_tesis.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5280,7 +5280,7 @@ https://servicio.uneg.edu.ve/catalogo/serie_tesis.html tiene 53 enlaces directos
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/siglo21.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/siglo21.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5335,7 +5335,7 @@ https://servicio.uneg.edu.ve/catalogo/siglo21.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/socioeconomica.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/socioeconomica.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5390,7 +5390,7 @@ https://servicio.uneg.edu.ve/catalogo/socioeconomica.html tiene 53 enlaces direc
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/strategos.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/strategos.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5445,7 +5445,7 @@ https://servicio.uneg.edu.ve/catalogo/strategos.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/trazos.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/trazos.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5500,7 +5500,7 @@ https://servicio.uneg.edu.ve/catalogo/trazos.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/tres_miradas.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/tres_miradas.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5555,7 +5555,7 @@ https://servicio.uneg.edu.ve/catalogo/tres_miradas.html tiene 53 enlaces directo
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/uneg.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/uneg.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5610,7 +5610,7 @@ https://servicio.uneg.edu.ve/catalogo/uneg.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/unegista.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/unegista.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5665,7 +5665,7 @@ https://servicio.uneg.edu.ve/catalogo/unegista.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/universidad_transformacion.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/universidad_transformacion.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5720,7 +5720,7 @@ https://servicio.uneg.edu.ve/catalogo/universidad_transformacion.html tiene 53 e
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/versicuenteando.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/versicuenteando.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5775,7 +5775,7 @@ https://servicio.uneg.edu.ve/catalogo/versicuenteando.html tiene 53 enlaces dire
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/catalogo/warime.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/catalogo/warime.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5830,7 +5830,7 @@ https://servicio.uneg.edu.ve/catalogo/warime.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/contacto.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/contacto.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -5885,7 +5885,7 @@ https://servicio.uneg.edu.ve/contacto.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/crear tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -5908,7 +5908,7 @@ https://servicio.uneg.edu.ve/crear tiene 21 enlaces directos.
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG tiene 22 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG [22 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/about/contact
@@ -5932,7 +5932,7 @@ https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG tiene 22 enl
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2FCongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2FCongresosyJornadasUNEG
 
-https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current tiene 22 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current [22 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/about/contact
@@ -5956,7 +5956,7 @@ https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/curren
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2FCongresosyJornadasUNEG%2Fissue%2Fview%2F46
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2FCongresosyJornadasUNEG%2Fissue%2Fview%2F46
 
-https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales tiene 22 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales [22 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/about/contact
@@ -5980,7 +5980,7 @@ https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales tiene 22 
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2FOtrosproductoseditoriales
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2FOtrosproductoseditoriales
 
-https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/issue/current tiene 22 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/issue/current [22 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/about/contact
@@ -6004,7 +6004,7 @@ https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/issue/cur
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2FOtrosproductoseditoriales%2Fissue%2Fview%2F45
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2FOtrosproductoseditoriales%2Fissue%2Fview%2F45
 
-https://servicio.uneg.edu.ve/crear/index.php/citeg tiene 31 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/citeg [31 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/about/contact
@@ -6037,7 +6037,7 @@ https://servicio.uneg.edu.ve/crear/index.php/citeg tiene 31 enlaces directos.
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/user/setLocale/es_ES?source=%2Fcrear%2Findex.php%2Fciteg
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fciteg
 
-https://servicio.uneg.edu.ve/crear/index.php/citeg/issue/current tiene 31 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/citeg/issue/current [31 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/about/contact
@@ -6070,7 +6070,7 @@ https://servicio.uneg.edu.ve/crear/index.php/citeg/issue/current tiene 31 enlace
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/user/setLocale/es_ES?source=%2Fcrear%2Findex.php%2Fciteg%2Fissue%2Fview%2Fvolumen-1-numero-1
   |-- https://servicio.uneg.edu.ve/crear/index.php/citeg/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fciteg%2Fissue%2Fview%2Fvolumen-1-numero-1
 
-https://servicio.uneg.edu.ve/crear/index.php/copernico tiene 33 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/copernico [33 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/about/contact
@@ -6105,7 +6105,7 @@ https://servicio.uneg.edu.ve/crear/index.php/copernico tiene 33 enlaces directos
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Fcopernico
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fcopernico
 
-https://servicio.uneg.edu.ve/crear/index.php/copernico/issue/current tiene 33 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/copernico/issue/current [33 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/about/contact
@@ -6140,7 +6140,7 @@ https://servicio.uneg.edu.ve/crear/index.php/copernico/issue/current tiene 33 en
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Fcopernico%2Fissue%2Fview%2F52
   |-- https://servicio.uneg.edu.ve/crear/index.php/copernico/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fcopernico%2Fissue%2Fview%2F52
 
-https://servicio.uneg.edu.ve/crear/index.php/index tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -6163,7 +6163,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index tiene 21 enlaces directos.
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/index/about/aboutThisPublishingSystem tiene 10 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/about/aboutThisPublishingSystem [10 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/index
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/index
@@ -6175,7 +6175,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/about/aboutThisPublishingSyst
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Findex%2Fabout%2FaboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Findex%2Fabout%2FaboutThisPublishingSystem
 
-https://servicio.uneg.edu.ve/crear/index.php/index/login tiene 12 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/login [12 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/index
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/index
@@ -6189,7 +6189,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/login tiene 12 enlaces direct
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Findex%2Flogin
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Findex%2Flogin
 
-https://servicio.uneg.edu.ve/crear/index.php/index/user/register tiene 11 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/user/register [11 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/index
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/index
@@ -6202,7 +6202,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/user/register tiene 11 enlace
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Findex%2Fuser%2Fregister
   |-- https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Findex%2Fuser%2Fregister
 
-https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/en_US?source=%2Fcrear%2F tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/en_US?source=%2Fcrear%2F [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -6225,7 +6225,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/en_US?source=%
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/es_ES?source=%2Fcrear%2F tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/es_ES?source=%2Fcrear%2F [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -6248,7 +6248,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/es_ES?source=%
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/fr_CA?source=%2Fcrear%2F tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/fr_CA?source=%2Fcrear%2F [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -6271,7 +6271,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/fr_CA?source=%
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/it_IT?source=%2Fcrear%2F tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/it_IT?source=%2Fcrear%2F [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -6294,7 +6294,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/it_IT?source=%
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/pt_BR?source=%2Fcrear%2F tiene 21 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/pt_BR?source=%2Fcrear%2F [21 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG
   |-- https://servicio.uneg.edu.ve/crear/index.php/CongresosyJornadasUNEG/issue/current
   |-- https://servicio.uneg.edu.ve/crear/index.php/Otrosproductoseditoriales
@@ -6317,7 +6317,7 @@ https://servicio.uneg.edu.ve/crear/index.php/index/user/setLocale/pt_BR?source=%
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current
 
-https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio tiene 25 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio [25 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/about/contact
@@ -6344,7 +6344,7 @@ https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio tiene 25 enlaces dire
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Fkaleidoscopio
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fkaleidoscopio
 
-https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/issue/current tiene 25 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/issue/current [25 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/about/contact
@@ -6371,7 +6371,7 @@ https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/issue/current tiene 2
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Fkaleidoscopio%2Fissue%2Fview%2F53
   |-- https://servicio.uneg.edu.ve/crear/index.php/kaleidoscopio/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fkaleidoscopio%2Fissue%2Fview%2F53
 
-https://servicio.uneg.edu.ve/crear/index.php/strategos tiene 29 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/strategos [29 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/about/aboutThisPublishingSystem
@@ -6402,7 +6402,7 @@ https://servicio.uneg.edu.ve/crear/index.php/strategos tiene 29 enlaces directos
   |-- https://servicio.uneg.edu.ve/fondoeditorial
   |-- https://servicio.uneg.edu.ve/fondoeditorial/strategos/numeros.html
 
-https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current tiene 26 enlaces directos.
+https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current [26 enlaces]
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/about
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/about/aboutThisPublishingSystem
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/about/contact
@@ -6430,10 +6430,10 @@ https://servicio.uneg.edu.ve/crear/index.php/strategos/issue/current tiene 26 en
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/user/setLocale/it_IT?source=%2Fcrear%2Findex.php%2Fstrategos%2Fissue%2Fview%2F55
   |-- https://servicio.uneg.edu.ve/crear/index.php/strategos/user/setLocale/pt_BR?source=%2Fcrear%2Findex.php%2Fstrategos%2Fissue%2Fview%2F55
 
-https://servicio.uneg.edu.ve/encuesta tiene 1 enlaces directos.
+https://servicio.uneg.edu.ve/encuesta [1 enlaces]
   |-- https://servicio.uneg.edu.ve/encuesta/password/reset
 
-https://servicio.uneg.edu.ve/fondoeditorial tiene 87 enlaces directos.
+https://servicio.uneg.edu.ve/fondoeditorial [87 enlaces]
   |-- http://www.uneg.edu.ve
   |-- https://servicio.uneg.edu.ve/catalogo/El Docente Ser_ Saber y Trascendencia.html
   |-- https://servicio.uneg.edu.ve/catalogo/GUIA_MACRO.html
@@ -6522,11 +6522,11 @@ https://servicio.uneg.edu.ve/fondoeditorial tiene 87 enlaces directos.
   |-- https://servicio.uneg.edu.ve/contacto.html
   |-- https://servicio.uneg.edu.ve/nosotros.html
 
-https://servicio.uneg.edu.ve/inscripcion/principal/login.php tiene 2 enlaces directos.
+https://servicio.uneg.edu.ve/inscripcion/principal/login.php [2 enlaces]
   |-- http://servicio.uneg.edu.ve/sase/principal/recuperar_pword.php
-  |-- https://servicio.uneg.edu.ve/../documentos/202202_procedimiento.pdf?PHPSESSID=ae36c14327f6a268b3d3fff02d42b2df
+  |-- https://servicio.uneg.edu.ve/../documentos/202202_procedimiento.pdf?PHPSESSID=915c3b5ac7bacf71acec7230d09693ba
 
-https://servicio.uneg.edu.ve/nosotros.html tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/nosotros.html [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6581,7 +6581,7 @@ https://servicio.uneg.edu.ve/nosotros.html tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/recuperar_pword.php tiene 53 enlaces directos.
+https://servicio.uneg.edu.ve/recuperar_pword.php [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6636,16 +6636,16 @@ https://servicio.uneg.edu.ve/recuperar_pword.php tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://servicio.uneg.edu.ve/satg/principal/login.php tiene 1 enlaces directos.
+https://servicio.uneg.edu.ve/satg/principal/login.php [1 enlaces]
   |-- https://servicio.uneg.edu.ve/sase/principal/recuperar_pword.php
 
-https://servicio.uneg.edu.ve/saw/principal/login.php tiene 1 enlaces directos.
+https://servicio.uneg.edu.ve/saw/principal/login.php [1 enlaces]
   |-- https://servicio.uneg.edu.ve/recuperar_pword.php
 
-https://servicio.uneg.edu.ve/sde/principal/login.php tiene 1 enlaces directos.
+https://servicio.uneg.edu.ve/sde/principal/login.php [1 enlaces]
   |-- https://servicio.uneg.edu.ve/sase/principal/recuperar_pword.php
 
-https://uneg.edu.ve tiene 53 enlaces directos.
+https://uneg.edu.ve [53 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6700,10 +6700,10 @@ https://uneg.edu.ve tiene 53 enlaces directos.
   |-- https://uneg.edu.ve/storage/banner/documentos/informacion-doctorado-en-ciencias-administrativas.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/${organigrama_pdf} tiene 1 enlaces directos.
+https://uneg.edu.ve/${organigrama_pdf} [1 enlaces]
   |-- https://uneg.edu.ve
 
-https://uneg.edu.ve/admision tiene 32 enlaces directos.
+https://uneg.edu.ve/admision [32 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6737,7 +6737,7 @@ https://uneg.edu.ve/admision tiene 32 enlaces directos.
   |-- https://uneg.edu.ve/storage/documents/aviso-de-admision-por-equivalencias-2026.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/autoridades tiene 36 enlaces directos.
+https://uneg.edu.ve/autoridades [36 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6775,7 +6775,7 @@ https://uneg.edu.ve/autoridades tiene 36 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/breves tiene 46 enlaces directos.
+https://uneg.edu.ve/breves [46 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6823,7 +6823,7 @@ https://uneg.edu.ve/breves tiene 46 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/breves?page=2 tiene 38 enlaces directos.
+https://uneg.edu.ve/breves?page=2 [38 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6863,7 +6863,7 @@ https://uneg.edu.ve/breves?page=2 tiene 38 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/centros-de-investigacion tiene 36 enlaces directos.
+https://uneg.edu.ve/centros-de-investigacion [36 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6901,7 +6901,7 @@ https://uneg.edu.ve/centros-de-investigacion tiene 36 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/extension tiene 34 enlaces directos.
+https://uneg.edu.ve/extension [34 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -6937,7 +6937,7 @@ https://uneg.edu.ve/extension tiene 34 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/horarios tiene 83 enlaces directos.
+https://uneg.edu.ve/horarios [83 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7022,7 +7022,7 @@ https://uneg.edu.ve/horarios tiene 83 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/normas_procedimientos tiene 41 enlaces directos.
+https://uneg.edu.ve/normas_procedimientos [41 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7065,7 +7065,7 @@ https://uneg.edu.ve/normas_procedimientos tiene 41 enlaces directos.
   |-- https://uneg.edu.ve/storage/documents/trabajos_especiales_personal_adm_obrero.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/nosotros tiene 30 enlaces directos.
+https://uneg.edu.ve/nosotros [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7097,7 +7097,7 @@ https://uneg.edu.ve/nosotros tiene 30 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/extension/coordinacion-de-deporte-y-recreacion tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/extension/coordinacion-de-deporte-y-recreacion [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7128,7 +7128,7 @@ https://uneg.edu.ve/portal/extension/coordinacion-de-deporte-y-recreacion tiene 
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/extension/coordinacion-de-educacion-permanente tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/extension/coordinacion-de-educacion-permanente [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7159,7 +7159,7 @@ https://uneg.edu.ve/portal/extension/coordinacion-de-educacion-permanente tiene 
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/extension/coordinacion-de-extension-y-difusion-cultural tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/extension/coordinacion-de-extension-y-difusion-cultural [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7190,7 +7190,7 @@ https://uneg.edu.ve/portal/extension/coordinacion-de-extension-y-difusion-cultur
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/extension/coordinacion-desarrollo-humano-y-participacion-comunitaria tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/extension/coordinacion-desarrollo-humano-y-participacion-comunitaria [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7221,7 +7221,7 @@ https://uneg.edu.ve/portal/extension/coordinacion-desarrollo-humano-y-participac
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/extension/coordinacion-general-del-programa-educacion-comunitaria tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/extension/coordinacion-general-del-programa-educacion-comunitaria [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7252,7 +7252,7 @@ https://uneg.edu.ve/portal/extension/coordinacion-general-del-programa-educacion
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas tiene 47 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas [47 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7301,7 +7301,7 @@ https://uneg.edu.ve/portal/postgrado/programas tiene 47 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-administrativas tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-administrativas [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7333,7 +7333,7 @@ https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-administrativ
   |-- https://uneg.edu.ve/storage/documentos_secciones/Tw9GcbRkKaWoDzJC266cjS3ZEf0RTMT7GWl3HHao.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-ambientales tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-ambientales [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7366,7 +7366,7 @@ https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-ambientales t
   |-- https://uneg.edu.ve/storage/documentos_secciones/YMo9s7K3xDTFRJjxoLIOCzYqM5UUIZMAanZq7Ggx.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-de-la-educacion tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-de-la-educacion [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7397,7 +7397,7 @@ https://uneg.edu.ve/portal/postgrado/programas/doctorados/ciencias-de-la-educaci
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/especializaciones/profesional-en-gestion-ambiental tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/especializaciones/profesional-en-gestion-ambiental [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7428,7 +7428,7 @@ https://uneg.edu.ve/portal/postgrado/programas/especializaciones/profesional-en-
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/especializaciones/salud-ocupacional-mencion-medicina-del-trabajo tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/especializaciones/salud-ocupacional-mencion-medicina-del-trabajo [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7459,7 +7459,7 @@ https://uneg.edu.ve/portal/postgrado/programas/especializaciones/salud-ocupacion
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/brasil-venezuela/doctorado-en-ciencias-de-la-educacion tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/brasil-venezuela/doctorado-en-ciencias-de-la-educacion [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7490,7 +7490,7 @@ https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/br
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/brasil-venezuela/maestria-en-ciencias-de-la-educacion-mencion-procesos-de-ensenanza-y-aprendizajes tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/brasil-venezuela/maestria-en-ciencias-de-la-educacion-mencion-procesos-de-ensenanza-y-aprendizajes [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7521,7 +7521,7 @@ https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/br
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/ecuador-venezuela/doctorado-en-ciencias-de-la-educacion tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/ecuador-venezuela/doctorado-en-ciencias-de-la-educacion [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7552,7 +7552,7 @@ https://uneg.edu.ve/portal/postgrado/programas/internacionalizacion-academica/ec
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencia-de-los-materiales tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencia-de-los-materiales [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7583,7 +7583,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencia-de-los-material
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-ambientales-mencion-ecologia-aplicada tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-ambientales-mencion-ecologia-aplicada [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7615,7 +7615,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-ambientales-me
   |-- https://uneg.edu.ve/storage/documentos_secciones/AQv4V2rpnSwwRiPVCi8DB5nfW5Ik0XIJQRi1tBAW.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-ambientales-mencion-gestion-ambiental tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-ambientales-mencion-gestion-ambiental [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7647,7 +7647,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-ambientales-me
   |-- https://uneg.edu.ve/storage/documentos_secciones/FqNd2LHdP8PIbXLNwwyuZ45HC80h0xrljDj9UdLx.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-de-la-educacion-mencion-lectura-y-escritura tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-de-la-educacion-mencion-lectura-y-escritura [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7678,7 +7678,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/ciencias-de-la-educacio
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/cienciasde-la-educacion-mencion-procesos-de-ensenanza-y-aprendizajes tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/cienciasde-la-educacion-mencion-procesos-de-ensenanza-y-aprendizajes [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7709,7 +7709,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/cienciasde-la-educacion
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-finanzas tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-finanzas [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7740,7 +7740,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-finanz
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-operaciones-y-produccion tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-operaciones-y-produccion [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7771,7 +7771,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-operac
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-recursos-humanos tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-recursos-humanos [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7802,7 +7802,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/gerencia-mencion-recurs
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/maestrias/tecnologia-de-la-informacion tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/maestrias/tecnologia-de-la-informacion [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7833,7 +7833,7 @@ https://uneg.edu.ve/portal/postgrado/programas/maestrias/tecnologia-de-la-inform
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/postgrado/programas/no-conducentes-a-grado-academico/formacion-docente tiene 29 enlaces directos.
+https://uneg.edu.ve/portal/postgrado/programas/no-conducentes-a-grado-academico/formacion-docente [29 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7864,7 +7864,7 @@ https://uneg.edu.ve/portal/postgrado/programas/no-conducentes-a-grado-academico/
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras tiene 48 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras [48 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7914,7 +7914,7 @@ https://uneg.edu.ve/portal/pregrado/carreras tiene 48 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/administracion-de-banca-y-finanzas tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/administracion-de-banca-y-finanzas [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7946,7 +7946,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/administracion-de-banca-y-finanzas 
   |-- https://uneg.edu.ve/storage/documentos_secciones/fQe89dCZXXSiKNbtKHnXAfFq3NOnwewTB14BYHUt.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/administracion-de-empresas tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/administracion-de-empresas [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -7979,7 +7979,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/administracion-de-empresas tiene 31
   |-- https://uneg.edu.ve/storage/documentos_secciones/hoAgN9ji4LNe2tAokA8HAWUd5kedB0dxH4rzD3fi.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/ciencias-fiscales tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/ciencias-fiscales [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8011,7 +8011,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/ciencias-fiscales tiene 30 enlaces 
   |-- https://uneg.edu.ve/storage/documentos_secciones/5frZEABTx8zgi1xwcexTAPdlvO1bebDri1mspDtA.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/contaduria-publica tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/contaduria-publica [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8044,7 +8044,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/contaduria-publica tiene 31 enlaces
   |-- https://uneg.edu.ve/storage/documentos_secciones/zqX62iCgMp0t1uAsIe1QJOvCm0zvO1caMnSj7iCx.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/educacion-en-ciencias-quimica-fisica-y-biologia tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/educacion-en-ciencias-quimica-fisica-y-biologia [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8076,7 +8076,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/educacion-en-ciencias-quimica-fisic
   |-- https://uneg.edu.ve/storage/documentos_secciones/mIdx4rPFlx1UXQMBDYhqoqifZZ4Ci6MEKfkX51Rb.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/educacion-integral tiene 32 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/educacion-integral [32 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8110,7 +8110,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/educacion-integral tiene 32 enlaces
   |-- https://uneg.edu.ve/storage/documentos_secciones/oj0qEInFZLVKogl7bAVAuNHjobvhTS9aMy2WSVLu.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-educacion-fisica-deporte-y-recreacion tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-educacion-fisica-deporte-y-recreacion [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8143,7 +8143,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-educacion-fisica-
   |-- https://uneg.edu.ve/storage/documentos_secciones/t5rK6lltriFgQb6p8O6g7pG8erWjY3VlhiN33VUD.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-lengua-y-literatura tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-lengua-y-literatura [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8176,7 +8176,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-lengua-y-literatu
   |-- https://uneg.edu.ve/storage/documentos_secciones/4UcLzi3cjCkfRKi5lsLinq7wYbv8KgeHHwSfiT8W.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-matematica tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-matematica [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8209,7 +8209,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/educacion-mencion-matematica tiene 
   |-- https://uneg.edu.ve/storage/documentos_secciones/EY1e87XNOvnoNcIbTH5l74R1W4e3bOJHe3LdHjy7.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-industrias-forestales tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-industrias-forestales [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8242,7 +8242,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-industrias-forestales
   |-- https://uneg.edu.ve/storage/documentos_secciones/sTOOWvS2LkAJswCCGYuEgqHOMfJ6qWbA3mXNRFvL.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-informatica tiene 32 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-informatica [32 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8276,7 +8276,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-informatica tiene 32 
   |-- https://uneg.edu.ve/storage/documentos_secciones/rqeDIsFSK3Qf2qgTE9oty4PA04ecmdSdhRU09NT2.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-materiales tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-materiales [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8308,7 +8308,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-en-materiales tiene 30 e
   |-- https://uneg.edu.ve/storage/documentos_secciones/WbRerNijhanz7UprOyDvV5hVKIdvwrAwJ7IxrR9Y.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-industrial tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-industrial [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8341,7 +8341,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-industrial tiene 31 enla
   |-- https://uneg.edu.ve/storage/documentos_secciones/QsX6T8Kxc4X8P7Yd3RHShWZ7B8dZJQRGbJKxiYY2.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-produccion-animal tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-produccion-animal [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8374,7 +8374,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/ingenieria-produccion-animal tiene 
   |-- https://uneg.edu.ve/storage/documentos_secciones/cYK9b3ca0VcTrmgurJXJSE9KAOOm8T6OC8AGz0a2.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/licenciatura-en-ciencias-ambientales tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/licenciatura-en-ciencias-ambientales [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8406,7 +8406,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/licenciatura-en-ciencias-ambientale
   |-- https://uneg.edu.ve/storage/documentos_secciones/cLb8lqXlq42ZfJ9gHNGFbLrRJQJQbxvyqabucAuG.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/licenciatura-en-gestion-de-alojamiento-turistico tiene 30 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/licenciatura-en-gestion-de-alojamiento-turistico [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8438,7 +8438,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/licenciatura-en-gestion-de-alojamie
   |-- https://uneg.edu.ve/storage/documentos_secciones/ChlAvcnziGuBB9WBjSNEvrjjRw06SZRbSsypJmHD.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/tecnologia-en-produccion-agropecuaria tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/tecnologia-en-produccion-agropecuaria [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8471,7 +8471,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/tecnologia-en-produccion-agropecuar
   |-- https://uneg.edu.ve/storage/documentos_secciones/xhOODDAdsKRei2Hwbep1xPPgdkC9MszA4IXF49oQ.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/tsu-empresa-de-alojamiento-turistico tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/tsu-empresa-de-alojamiento-turistico [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8504,7 +8504,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/tsu-empresa-de-alojamiento-turistic
   |-- https://uneg.edu.ve/storage/documentos_secciones/hNHJIRgvIwkUJn00Fg3VRWU8QU6qMVe2G54HK8EN.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/portal/pregrado/carreras/tsu-en-turismo tiene 31 enlaces directos.
+https://uneg.edu.ve/portal/pregrado/carreras/tsu-en-turismo [31 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8537,7 +8537,7 @@ https://uneg.edu.ve/portal/pregrado/carreras/tsu-en-turismo tiene 31 enlaces dir
   |-- https://uneg.edu.ve/storage/documentos_secciones/rgcFEjNklbwI65iEVXTCPuVn9uV9cHBMCPEy1R97.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/postgrado tiene 30 enlaces directos.
+https://uneg.edu.ve/postgrado [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8569,7 +8569,7 @@ https://uneg.edu.ve/postgrado tiene 30 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/pregrado tiene 30 enlaces directos.
+https://uneg.edu.ve/pregrado [30 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8601,7 +8601,7 @@ https://uneg.edu.ve/pregrado tiene 30 enlaces directos.
   |-- https://uneg.edu.ve/reglamentos
   |-- https://www.uneg.edu.ve/dashboard
 
-https://uneg.edu.ve/reglamentos tiene 110 enlaces directos.
+https://uneg.edu.ve/reglamentos [110 enlaces]
   |-- http://glu.uneg.edu.ve
   |-- https://cidar.uneg.edu.ve
   |-- https://mail.uneg.edu.ve
@@ -8713,6 +8713,6 @@ https://uneg.edu.ve/reglamentos tiene 110 enlaces directos.
   |-- https://uneg.edu.ve/storage/reglamentos/modificaciones/201303002.pdf
   |-- https://www.uneg.edu.ve/dashboard
 
-https://www.uneg.edu.ve/dashboard tiene 1 enlaces directos.
+https://www.uneg.edu.ve/dashboard [1 enlaces]
   |-- https://www.uneg.edu.ve/forgot-password
 

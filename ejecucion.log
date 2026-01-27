@@ -1,0 +1,12 @@
+================================================
+FECHA Y HORA: Mon Jan 26 22:08:53 2026
+PARAMETROS UTILIZADOS:
+ - URL Semilla: https://uneg.edu.ve
+ - Profundidad: 3
+METRICAS OBTENIDAS:
+ - Nodos (Paginas): 225
+ - Aristas (Enlaces): 8265
+ - Densidad (Promedio): 36.7333 enlaces/pag
+ - Nodo Critico: https://uneg.edu.ve/reglamentos (110 hijos)
+================================================
+

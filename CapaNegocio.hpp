@@ -15,6 +15,7 @@ private:
     std::map<std::string, std::set<std::string>> grafoWeb;
     std::string dominioRaiz;
 
+
     static size_t WriteCallback(void* contents, size_t size, size_t nmemb, void* userp) {
         ((std::string*)userp)->append((char*)contents, size * nmemb);
         return size * nmemb;
@@ -47,7 +48,19 @@ private:
         return html;
     }
 
+
+
 public:
+
+    struct Metricas {
+        int totalPaginas;
+        int totalEnlaces;
+        double promedioEnlaces;
+        std::string paginaMasConectada;
+        int maxEnlaces;
+    };
+
+
     void procesarSitio(std::string semilla, int profMax) {
         grafoWeb.clear();
         std::set<std::string> visitados; // Registro de páginas YA descargadas
@@ -115,6 +128,28 @@ public:
             }
         }
         return {};
+    }
+
+
+    Metricas calcularMetricas() {
+         Metricas m = {0, 0, 0.0, "", 0};
+        m.totalPaginas = grafoWeb.size();
+        
+        for (auto const& [padre, hijos] : grafoWeb) {
+            int numHijos = hijos.size();
+            m.totalEnlaces += numHijos;
+            
+            if (numHijos > m.maxEnlaces) {
+                m.maxEnlaces = numHijos;
+                m.paginaMasConectada = padre;
+            }
+        }
+        
+        if (m.totalPaginas > 0) {
+            m.promedioEnlaces = (double)m.totalEnlaces / m.totalPaginas;
+        }
+        
+        return m;
     }
 
     std::map<std::string, std::set<std::string>> getGrafo() { return grafoWeb; }
