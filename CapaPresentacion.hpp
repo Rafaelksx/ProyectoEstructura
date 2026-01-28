@@ -10,7 +10,7 @@ public:
     int mostrarMenu() {
         int op;
         std::cout << "\n====================================" << std::endl;
-        std::cout << "   ANALIZADOR ESTRUCTURAL (UNEG)" << std::endl;
+        std::cout << "ANALIZADOR ESTRUCTURAL" << std::endl;
         std::cout << "====================================" << std::endl;
         std::cout << "1. Analizar sitio y generar reportes" << std::endl;
         std::cout << "2. Buscar camino a palabra clave" << std::endl;
@@ -22,7 +22,7 @@ public:
 
     std::string pedirURL() {
         std::string url;
-        std::cout << "URL Semilla (ej: https://uneg.edu.ve): ";
+        std::cout << "URL Semilla: ";
         std::cin >> url;
         if (url.find("http") == std::string::npos) url = "https://" + url;
         return url;
