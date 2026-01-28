@@ -41,17 +41,25 @@ private:
      * @param v Conjunto de nodos ya visitados para evitar ciclos o expansiones repetidas.
      */
     void escribirRama(std::ofstream& f, const std::map<std::string, std::set<std::string>>& g, 
-                      std::string act, int n, int max, std::set<std::string>& v) {
-        if (n >= max) return;
+                  std::string act, int n, int max, std::set<std::string>& v) {
+    
+        // Imprimimos el nodo siempre (así el Nivel 3 aparecerá)
         f << "<li><a href='" << act << "' target='_blank'>" << act << "</a> <span class='b'>Nivel " << n+1 << "</span>";
-        if (g.count(act) && v.find(act) == v.end()) {
+
+        // Solo intentamos expandir si NO hemos superado el límite de profundidad
+        // y si el nodo tiene hijos en el grafo.
+        if (n + 1 < max && g.count(act) && v.find(act) == v.end()) {
             v.insert(act);
             f << "<ul>";
-            for (auto const& h : g.at(act)) escribirRama(f, g, h, n + 1, max, v);
+            for (auto const& h : g.at(act)) {
+                escribirRama(f, g, h, n + 1, max, v);
+            }
             f << "</ul>";
-        } else if (g.count(act)) {
-            f << " <small>(Ya expandido)</small>";
+        } else if (g.count(act) && !g.at(act).empty()) {
+            // Si tiene hijos pero no los mostramos por el nivel, avisamos
+            f << " <small>(Límite de profundidad)</small>";
         }
+        
         f << "</li>";
     }
 

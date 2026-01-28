@@ -132,8 +132,17 @@ public:
         while(!q.empty()) {
             auto [actual, nivel] = q.front(); q.pop();
 
-            if (nivel > profMax || visitados.count(actual)) continue;
+            if (visitados.count(actual)) continue;
             visitados.insert(actual);
+
+            // NUEVA LÓGICA: Si estamos en el nivel límite, no descargamos.
+            // Solo nos aseguramos de que el nodo exista en el grafo (aunque sea vacío).
+            if (nivel >= profMax) {
+                if (grafoWeb.find(actual) == grafoWeb.end()) {
+                    grafoWeb[actual] = {}; 
+                }
+                continue; // BLOQUEO: No ejecuta descargar() ni busca enlaces Nivel N+1
+            }
 
             std::string html = descargar(actual);
             if(html.empty()) continue;
@@ -147,7 +156,9 @@ public:
                 
                 if (!link.empty() && link.find(filtroDominio) != std::string::npos) {
                     grafoWeb[actual].insert(link);
-                    if (visitados.find(link) == visitados.end() && nivel < profMax) {
+                    
+                    // Solo encolamos si hay espacio para subir de nivel
+                    if (visitados.find(link) == visitados.end()) {
                         q.push({link, nivel + 1});
                     }
                 }
